@@ -51,4 +51,4 @@ This project was created for learning and practice in Java Full Stack Developmen
 
 ## Author
 
-Developed by [Your Name]
+Developed by Latha
